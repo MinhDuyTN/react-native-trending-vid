@@ -33,7 +33,8 @@ export default function App() {
           </View>
           <Text className="text-white text-center mt-5 text-sm font-pregular w-[290px] ">
             Where Creativity Meets Innovation: Embark on a Journey of Limitless
-            Exploration with Aora
+            Exploration with Aora Where Creativity Meets Innovation: Embark on a
+            Journey of Limitless Exploration with Aora
           </Text>
           <CustomerButton
             title="CustomerButton"
